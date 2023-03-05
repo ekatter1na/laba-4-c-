@@ -1,0 +1,15 @@
+D:\учеба\програмки\laba 4 cc\bin\Debug\net6.0\laba 4 cc.exe
+D:\учеба\програмки\laba 4 cc\bin\Debug\net6.0\laba 4 cc.deps.json
+D:\учеба\програмки\laba 4 cc\bin\Debug\net6.0\laba 4 cc.runtimeconfig.json
+D:\учеба\програмки\laba 4 cc\bin\Debug\net6.0\laba 4 cc.dll
+D:\учеба\програмки\laba 4 cc\bin\Debug\net6.0\laba 4 cc.pdb
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\laba 4 cc.csproj.AssemblyReference.cache
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\laba 4 cc.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\laba 4 cc.AssemblyInfoInputs.cache
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\laba 4 cc.AssemblyInfo.cs
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\laba 4 cc.csproj.CoreCompileInputs.cache
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\laba 4 cc.dll
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\refint\laba 4 cc.dll
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\laba 4 cc.pdb
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\laba 4 cc.genruntimeconfig.cache
+D:\учеба\програмки\laba 4 cc\obj\Debug\net6.0\ref\laba 4 cc.dll
